@@ -11,9 +11,9 @@ div.container{
 }
 /* Navigation Bar */
 div.navbar{
-    height: 50px;
+    height: 1%;
     width: 100%;
-    background-color: #ba861c;
+    background-color: #b56b04;
 }
 div.navbar img{
     width: 10%;
@@ -70,7 +70,8 @@ div.content img{
     margin-right: 20px;
 }
 div.container iframe{
-    margin: 50px;
+    width: 90%;
+    margin: 5%;
 }
 
 div.container footer{
